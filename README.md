@@ -1,6 +1,6 @@
 # Welcome to Manjeet Agarwal's GitHub Profile! 👋
 
-![Manjeet Agarwal](https://github.com/Manjeet-Agarwal/Manjeet-Agarwal/raw/main/Your_Banner_Image.png) 
+<!-- ![Manjeet Agarwal](https://github.com/Manjeet-Agarwal/Manjeet-Agarwal/raw/main/Your_Banner_Image.png) -->
 
 ## Hi there! 👋
 
