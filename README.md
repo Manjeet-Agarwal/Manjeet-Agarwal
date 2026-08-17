@@ -1,69 +1,177 @@
-# Welcome to Manjeet Agarwal's GitHub Profile! 👋
+# 👋 Hey, I'm Manjeet Agarwal
 
-<!-- ![Manjeet Agarwal](https://github.com/Manjeet-Agarwal/Manjeet-Agarwal/raw/main/Your_Banner_Image.png) -->
+### `Full-Stack Developer` • `Problem Solver` • `Builder` • `Tech Enthusiast`
 
-## Hi there! 👋
+> **“Sometimes you gotta run before you can walk.” — Tony Stark**
 
-I'm **Manjeet Agarwal**, a Full Stack Developer with a passion for building scalable and efficient applications. Over the past year, I've gained hands-on experience working in **React.js**, **Next.js**, **Node.js**, **Express.js**, and **MongoDB**, along with frontend frameworks like **Material UI** and **Tailwind CSS**. I enjoy solving real-world problems and collaborating on **Open Source Projects**.
+I build **scalable, maintainable, and production-ready web applications** with a strong focus on modern frontend architecture, backend engineering, and clean developer experience.
 
-- 🌱 I’m currently enhancing my expertise in **React.js**, **Next.js**, and **backend technologies** like **Node.js** and **Express.js**.
-- 💻 Primarily focused on **Full Stack Development** with a deeper interest in frontend technologies.
-- 💬 Ask me about **React.js, Next.js, Node.js, MongoDB, Material UI, Tailwind CSS**, and more - I'd love to share my knowledge!
-- 📫 Feel free to reach out at [manjeetagarwal123@gmail.com](mailto:manjeetagarwal123@gmail.com).
+I enjoy turning ideas into working products, solving complex problems, and continuously learning better ways to build software.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjeet-agarwal/)
-
-<!--Coding platform-->
-## ‍💻 Coding Profile:
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/manjeetagarwal12/)
-
-# 💻 Tech Stack:
-
-### Frontend:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Material UI](https://img.shields.io/badge/material--ui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Backend:
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Swagger](https://img.shields.io/badge/swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-
-### Programming Languages:
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-### Tools & Platforms:
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-## 📊 GitHub Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Manjeet-Agarwal&)
-
-![GitHub Stats](https://github-readme-stats-mu-dusky.vercel.app/api?username=Manjeet-Agarwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
-
-### 🔝 Top Contributed Repositories:
-
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Manjeet-Agarwal&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
-## Visitor Count:
-
-![Profile Views](https://komarev.com/ghpvc/?username=Manjeet-Agarwal&color=blueviolet)
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     MANJEET AGARWAL                         │
+│                                                              │
+│  Full-Stack Developer                                       │
+│  React • Next.js • Node.js • NestJS • TypeScript             │
+│                                                              │
+│  Building → Learning → Breaking → Fixing → Building Better  │
+└──────────────────────────────────────────────────────────────┘
+```
 
 ---
 
-_This README is a work in progress and will be updated with more cool stuff soon!_
+## 🦾 About Me
+
+* 💻 Full-Stack Developer with **2+ years of professional experience**
+* ⚛️ Strong focus on **React & Next.js** ecosystem
+* 🧠 Interested in **backend architecture, APIs, scalability & system design**
+* 🔧 Experienced with **Node.js, Express.js & NestJS**
+* 🎨 Love building clean and reusable UI with **Tailwind, Material UI & Shadcn**
+* 🚀 Interested in **cloud infrastructure, Docker & CI/CD**
+* 🔐 Enjoy working with **authentication, authorization & RBAC**
+* 🧩 I like breaking complex problems into simple, maintainable solutions
+* 🏆 Hackathon enthusiast & problem solver
+* 🌱 Always learning something new
+
+---
+
+## ⚡ My Tech Arsenal
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge\&logo=redux\&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge\&logo=reactquery\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge\&logo=mui\&logoColor=white)
+![Shadcn](https://img.shields.io/badge/Shadcn-000000?style=for-the-badge\&logo=shadcnui\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=61DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)
+
+**Things I enjoy building:**
+
+`REST APIs` · `Authentication` · `Authorization` · `RBAC` · `Validation` · `Error Handling` · `API Architecture`
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazon-aws\&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge\&logo=amazonec2\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+## 🧠 What I'm Currently Exploring
+
+```javascript
+const manjeet = {
+  role: "Full-Stack Developer",
+
+  frontend: [
+    "React",
+    "Next.js",
+    "TypeScript",
+    "Redux",
+    "TanStack Query"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "NestJS",
+    "REST APIs"
+  ],
+
+  database: ["MongoDB"],
+
+  architecture: [
+    "Scalable APIs",
+    "Authentication & Authorization",
+    "RBAC",
+    "Clean Architecture"
+  ],
+
+  devops: [
+    "AWS",
+    "Docker",
+    "GitHub Actions",
+    "CI/CD"
+  ],
+
+  currentlyLearning: [
+    "System Design",
+    "Backend Architecture",
+    "Cloud & DevOps"
+  ]
+};
+```
+---
+
+## 💻 Coding Profile
+
+### 🧩 LeetCode
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Manjeet_Agarwal-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/manjeetagarwal12/)
+
+I enjoy solving problems, understanding patterns, and sharpening my problem-solving skills through competitive programming.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/manjeet-agarwal/)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:manjeetagarwal123@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manjeet-Agarwal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=Manjeet-Agarwal&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Manjeet-Agarwal&limit=5&theme=dracula&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Manjeet-Agarwal&style=for-the-badge&color=blueviolet" />
+</p>
+
+---
+
+### 🦾 Building like Stark. Debugging like Banner. Shipping like there's no tomorrow.
+
+<p align="center">
+  <b>Thanks for stopping by! 🚀</b>
+</p>
